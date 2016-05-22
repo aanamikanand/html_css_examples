@@ -1,0 +1,72 @@
+.thebody {
+	background-color: grey;
+}
+
+.size15 {
+	font-size: 15px
+}
+.center {
+	text-align: center;
+}
+
+.menu {
+	height: 200px;
+	width: 150px;
+	border: 2px dashed black;
+}
+.left {
+	text-align: left;
+}
+.topleft {
+	text-align: left
+	height: 10px;
+	width:150px;
+	font-size: 12px;
+}
+.img {
+}
+
+.myimg {
+	height: 150px;
+	width: 400px;
+	padding-bottom: 50px;
+	padding-left: 120px;
+}
+.abt_hrs {
+	width: 100%;
+}
+.about{
+	float: left; 
+	width: 45%;
+}
+
+.v_line {
+	float: left; 
+	width: 10%
+}
+
+.vertical {
+	width: 10%;
+	height: 200px;
+	width: 3px;
+	border:1px solid black;
+	background-color: black;
+	margin-right: 500px;
+	float:left;
+}
+
+.hours {
+	float: left; 
+	width: 45%
+}
+
+.strong {
+	font-weight: bold;
+}
+.underline {
+	text-decoration: underline;
+}
+
+.size20 {
+	font-size: 20px;
+}

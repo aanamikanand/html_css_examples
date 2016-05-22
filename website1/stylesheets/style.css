@@ -1,0 +1,70 @@
+.center {
+	text-align: center;
+}
+
+.table1, .td1 {
+	border: 1px solid blue;
+	border-collapse: collapse;
+}
+.table1 {
+	background-color: #e6f3ff;
+	width: 100%;
+	height: 30px;
+}
+
+.table2, .th2, .td2 {
+	border: 1px solid black;
+}
+.table2 {
+	background-color:  #cccccc;
+	width: 100%;
+}
+
+.ordered_list {
+	margin-right: 300px;
+	float: left;
+}
+
+.unordered_list {
+}
+
+.list {
+	font-weight: bold;
+	font-size: 110%
+}
+
+
+.circle {
+	height: 100px;
+	width :100px;
+	border-radius: 100px;
+	border: 2px solid black;
+	background-color: green;
+	
+}
+
+.square {
+	height: 100px;
+	width: 100px;
+	border: 2px solid black;
+	background-color: purple;
+
+}
+
+.my_image {
+	height: 100px;
+	width: 100px;
+	border: 2px solid blue;
+}
+
+.img1 {
+	height: 100px;
+	width: 100px;
+}
+
+.table3 {
+	width: 100%;
+}
+.eqpad {
+	margin-left: 120px;
+}
